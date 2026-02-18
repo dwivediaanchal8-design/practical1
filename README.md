@@ -1,1 +1,141 @@
-# practical1
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Resume - Aanchal Dwivedi</title>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f8ff;
+            margin: 0;
+            padding: 0;
+        }
+
+        .container {
+            width: 70%;
+            margin: 30px auto;
+            background-color: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px gray;
+        }
+
+        h1 {
+            color: #2c3e50;
+            text-align: center;
+        }
+
+        h2 {
+            background-color: #3498db;
+            color: white;
+            padding: 5px;
+            border-radius: 5px;
+        }
+
+        p {
+            font-size: 16px;
+        }
+
+        ul {
+            line-height: 1.8;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 10px;
+        }
+
+        table, th, td {
+            border: 1px solid black;
+            padding: 8px;
+            text-align: center;
+        }
+
+        th {
+            background-color: #3498db;
+            color: white;
+        }
+
+        .contact {
+            text-align: center;
+            color: #555;
+        }
+
+    </style>
+</head>
+
+<body>
+
+<div class="container">
+
+    <h1>Aanchal Dwivedi</h1>
+    <p class="contact">
+        Email: dwivediaanchal8@email.com | Phone: 9371725453 <br>
+        Nagpur, Maharashtra
+    </p>
+
+    <h2>Career Objective</h2>
+    <p>
+        To build a successful career in Artificial Intelligence and Data Science 
+        while contributing to innovative and technical advancements.
+    </p>
+
+    <h2>Education</h2>
+    <table>
+        <tr>
+            <th>Qualification</th>
+            <th>Institute</th>
+            <th>Year</th>
+        </tr>
+
+        <tr>
+            <td>B.Tech (AI & Data Science)</td>
+            <td>Priyadarshini J.L. College of Engineering</td>
+            <td>Pursuing</td>
+        </tr>
+
+        <tr>
+            <td>12th</td>
+            <td>Baba Nanak sindhi hindi junior college</td>
+            <td>2024</td>
+        </tr>
+
+        <tr>
+            <td>10th</td>
+            <td>Baba Nanak sindhi hindi High School</td>
+            <td>2022</td>
+        </tr>
+    </table>
+
+    <h2>Technical Skills</h2>
+    <ul>
+        <li>Python Programming</li>
+        <li>HTML & CSS</li>
+   </ul>
+
+    <h2>Projects</h2>
+    <ul>
+        <li>Fibonacci & Factorial Python Program</li>
+        <li>Binary Search using C</li>
+        <li>AI Based Mini Projects</li>
+    </ul>
+
+    <h2>Strengths</h2>
+    <ul>
+        <li>Quick Learner</li>
+        <li>Leadership Skills</li>
+        <li>Team Player</li>
+    </ul>
+
+    <h2>Hobbies</h2>
+    <ul>
+        <li>Reading books</li>
+        <li>football</li>
+        <li>learning new things</li>
+    </ul>
+
+</div>
+
+</body>
+</html>
